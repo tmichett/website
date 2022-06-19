@@ -13,3 +13,5 @@ layout: home
 ## Welcome to My Site!
 
 This is a test of My Site
+
+This is the **home** layout!!
