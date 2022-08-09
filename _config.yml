@@ -30,7 +30,7 @@ url: "https://tmichett.github.io" # the base hostname & protocol for your site, 
 github_username:  tmichett
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
